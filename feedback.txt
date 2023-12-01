@@ -1,0 +1,7 @@
+Shriya Chute - shriyac
+Diya Khilnani - diyak10
+
+We believe we did not have the proper dependencies installed as the code did not run when we ran 
+python3 stand_up_bot.py. There might also be a syntax issue which causes the code to not compile
+properly. Otherwise the code seems promising and will complete the functinality of the prompt after
+debugging for a bit. 
