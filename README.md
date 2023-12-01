@@ -10,9 +10,9 @@ Pros/Cons of Software Engineering with ChatGPT:
 
 Pros:
 
-High Demand: There is a consistently high demand for skilled software engineers across various industries, as technology continues to play a crucial role in business and daily life.
+High Demand: There is a constantly a high demand for skilled software engineers across several industries, and this will continue as technology becomes more and more prevalent in society.
 
-Job Opportunities: Software engineers have diverse job opportunities, ranging from web development and mobile app development to systems programming, artificial intelligence, and more.
+Job Opportunities: Software engineers have diverse job opportunities, ranging from low-level systems to artificial intelligence, and more.
 
 Innovation: Software engineering is at the forefront of technological innovation. Engineers have the chance to work on cutting-edge projects and contribute to the development of new technologies.
 
